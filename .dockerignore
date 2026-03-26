@@ -1,0 +1,14 @@
+﻿.git
+__pycache__/
+typing_game/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+practice_history.json
+wrong_book.json
+runtime_data*/
+.DS_Store
+Thumbs.db

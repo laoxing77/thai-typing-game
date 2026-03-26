@@ -1,4 +1,4 @@
-# Thai Typing Game
+﻿# Thai Typing Game
 
 Version / 版本: `v0.2.0`
 
@@ -42,15 +42,19 @@ The system checks:
 - Duplicate rows inside the uploaded file
 - Duplicate rows against the current word bank
 
-### Railway Trial Deployment
+### Railway Deployment
 
-This project can be deployed to Railway as a trial version.
+This project is ready for a Railway trial deployment.
 
 Recommended steps:
 1. Push this repository to GitHub.
-2. Create a Railway project from the GitHub repo.
-3. Start with `python web_main.py` if Railway does not auto-detect it.
-4. Add `APP_DATA_DIR=/data` if you attach a persistent volume.
+2. Create a new Railway project from the GitHub repository.
+3. Railway can deploy directly from the included `Dockerfile`.
+4. Add a Volume and mount it to `/data` if you want imported data and practice records to persist.
+5. If needed, add `APP_DATA_DIR=/data` in Railway Variables. The Docker image already defaults to `/data`.
+
+Health check:
+- `GET /health`
 
 Important note:
 - Without persistent storage, imported data, wrong-book data, and practice history may be lost after restart or redeploy.
@@ -61,6 +65,7 @@ Important note:
 - `typing_game/`: backend logic
 - `web/`: frontend pages and scripts
 - `words.json`: current word bank data
+- `Dockerfile`: Railway deployment image
 
 ## 中文
 
@@ -102,18 +107,22 @@ CSV 模板下载地址：
 - 上传文件内部是否有重复词条
 - 与现有词库相比是否重复
 
-### Railway 试用版部署
+### Railway 部署
 
-这个项目现在可以先按“试用版”方式部署到 Railway。
+这个项目已经整理成可直接部署到 Railway 的试用版本。
 
 建议步骤：
-1. 把仓库推送到 GitHub。
-2. 在 Railway 中从 GitHub 仓库创建项目。
-3. 如果 Railway 没自动识别启动命令，就填写 `python web_main.py`。
-4. 如果你挂载了持久卷，建议设置环境变量 `APP_DATA_DIR=/data`。
+1. 把当前仓库推送到 GitHub。
+2. 在 Railway 中从 GitHub 仓库创建新项目。
+3. Railway 会直接使用仓库里的 `Dockerfile` 进行部署。
+4. 如果你希望导入数据、错题本和练习记录长期保留，给服务挂一个 Volume，并挂载到 `/data`。
+5. 如有需要，在 Railway 的 Variables 里补充 `APP_DATA_DIR=/data`。当前镜像已经默认使用 `/data`。
+
+健康检查接口：
+- `GET /health`
 
 注意：
-- 如果没有持久存储，导入后的词库数据、错题本和练习记录在重启或重新部署后可能会丢失。
+- 如果没有持久化存储，导入后的词库数据、错题本和练习记录在重启或重新部署后可能会丢失。
 
 ### 项目结构
 
@@ -121,3 +130,4 @@ CSV 模板下载地址：
 - `typing_game/`：后端逻辑
 - `web/`：前端页面和脚本
 - `words.json`：当前词库数据
+- `Dockerfile`：Railway 部署镜像配置
