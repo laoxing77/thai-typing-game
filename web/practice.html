@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Practice</title>
+    <link rel="stylesheet" href="/styles.css?v=6" />
+  </head>
+  <body data-page="practice">
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand-mark" href="/">Thai Typing Game</a>
+        <div class="topbar-actions">
+          <nav class="nav-links">
+            <a href="/" data-i18n="nav.home">Home</a>
+            <a href="/word-bank" data-i18n="nav.wordBank">Word Bank</a>
+            <a href="/practice" data-i18n="nav.practice">Practice</a>
+          </nav>
+          <label class="language-picker">
+            <span data-i18n="common.language">Language</span>
+            <select id="languageSelect">
+              <option value="en">English</option>
+              <option value="zh">Chinese</option>
+            </select>
+          </label>
+        </div>
+      </header>
+
+      <section class="page-intro card">
+        <p class="eyebrow" data-i18n="practice.eyebrow">Practice studio</p>
+        <h1 data-i18n="practice.title">Run one clean practice round at a time.</h1>
+        <p class="hero-text" data-i18n="practice.subtitle">
+          Pick a mode, answer each prompt, and save the result back into your study history.
+        </p>
+      </section>
+
+      <main class="practice-layout">
+        <section class="card practice-sidebar">
+          <div class="section-head">
+            <h2 data-i18n="practice.setupTitle">Round Setup</h2>
+            <p id="practiceStatusText"></p>
+          </div>
+
+          <form id="practiceForm" class="practice-form">
+            <label>
+              <span data-i18n="practice.mode">Mode</span>
+              <select id="practiceModeSelect">
+                <option value="all" data-i18n="practice.mixed">Mixed</option>
+                <option value="word" data-i18n="practice.wordsOnly">Words only</option>
+                <option value="phrase" data-i18n="practice.phrasesOnly">Phrases only</option>
+                <option value="lesson" data-i18n="practice.byLesson">By lesson</option>
+                <option value="wrong" data-i18n="practice.wrongBook">Wrong book</option>
+              </select>
+            </label>
+
+            <label>
+              <span data-i18n="practice.direction">Direction</span>
+              <select id="practiceDirectionSelect">
+                <option value="zh_to_th" data-i18n="practice.zhToTh">Chinese to Thai</option>
+                <option value="th_to_zh" data-i18n="practice.thToZh">Thai to Chinese</option>
+              </select>
+            </label>
+
+            <label>
+              <span data-i18n="practice.lessonFocus">Lesson focus</span>
+              <select id="practiceLessonSelect"></select>
+            </label>
+
+            <label>
+              <span data-i18n="practice.questionCount">Question count</span>
+              <input id="practiceCountInput" type="number" min="1" max="50" value="5" />
+            </label>
+
+            <button type="submit" class="primary-btn" id="startPracticeBtn" data-i18n="practice.start">Start Practice</button>
+          </form>
+
+          <div class="practice-chip-row" id="practiceMetaChips"></div>
+        </section>
+
+        <section class="card practice-main">
+          <div id="practiceStage" class="practice-stage hidden">
+            <div class="progress-strip">
+              <div id="progressBar" class="progress-fill"></div>
+            </div>
+
+            <div class="question-card">
+              <div class="question-label-row">
+                <span class="item-type" id="questionTypeBadge"></span>
+                <span class="item-meta" id="questionCounter"></span>
+              </div>
+              <p class="question-label" id="questionLabel"></p>
+              <div class="question-prompt" id="questionPrompt"></div>
+            </div>
+
+            <form id="answerForm" class="answer-form">
+              <label>
+                <span data-i18n="practice.yourAnswer">Your answer</span>
+                <input id="answerInput" type="text" autocomplete="off" />
+              </label>
+              <div class="answer-actions">
+                <button type="submit" class="primary-btn" id="submitAnswerBtn" data-i18n="practice.submitAnswer">Submit Answer</button>
+                <button type="button" class="ghost-btn" id="finishPracticeBtn" data-i18n="practice.endRound">End Round</button>
+              </div>
+            </form>
+
+            <div id="feedbackCard" class="feedback-card neutral"></div>
+          </div>
+
+          <div id="practiceEmpty" class="empty-state practice-empty"></div>
+          <div id="practiceResult" class="practice-result hidden"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="/common.js?v=6"></script>
+    <script src="/practice.js?v=6"></script>
+  </body>
+</html>

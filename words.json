@@ -1,0 +1,3482 @@
+{
+  "words": [
+    {
+      "th": "ถาม",
+      "zh": "问",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "cc33293c2f3341139250e43c3c6d8570"
+    },
+    {
+      "th": "ตอบ",
+      "zh": "回答",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "bfb7c6ac3e3f4971b388721dea964f64"
+    },
+    {
+      "th": "สวย",
+      "zh": "漂亮",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "71c9ca405bbc4e3a918dac5092349406"
+    },
+    {
+      "th": "หมา",
+      "zh": "狗",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "363db8cc36394285a969ef4e486dd208"
+    },
+    {
+      "th": "อ่าน",
+      "zh": "读",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "2ee132520bfc4d798c8a2c50a2333e2e"
+    },
+    {
+      "th": "เขียน",
+      "zh": "写",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7b7aaa5ae3224a5bb57468d0aa28fb65"
+    },
+    {
+      "th": "ทำ",
+      "zh": "做",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d9ffbcee5ecb4007b777b4961f39dec9"
+    },
+    {
+      "th": "ให้",
+      "zh": "给",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6a9134e8623b4c4a94305aafb349ee8b"
+    },
+    {
+      "th": "ดี",
+      "zh": "好",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "97df0d06528140c08be82d20576cbcff"
+    },
+    {
+      "th": "ชั่ว",
+      "zh": "坏",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "c7cb8f87b90948dc94c64e374ac785f4"
+    },
+    {
+      "th": "สุข",
+      "zh": "快乐",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "fc94553861ed4409b186ca7b482e89f5"
+    },
+    {
+      "th": "ทุกข์",
+      "zh": "痛苦",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "0e09942e02c14740a68d7eac0b040692"
+    },
+    {
+      "th": "ได้",
+      "zh": "得到；可以",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "722a89edb9184f42abcdecc38460e0ad"
+    },
+    {
+      "th": "ใน",
+      "zh": "在……里面",
+      "category": "prep",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "12a794a796084c7b9d5211ddebbdfda9"
+    },
+    {
+      "th": "ที่อยู่",
+      "zh": "住处；所在地",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "2c4de9ebec0c498da21e245c3404e4af"
+    },
+    {
+      "th": "ครอบครัว",
+      "zh": "家庭",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8830085a57794757a8ad5f992e3c483b"
+    },
+    {
+      "th": "ไม่สบาย",
+      "zh": "不舒服；生病",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "365af0602d6d467ea62a4ee675e67327"
+    },
+    {
+      "th": "สบายดี",
+      "zh": "很好；身体好",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "33d61487f4a24797bacd10732304b718"
+    },
+    {
+      "th": "พระ",
+      "zh": "僧人；佛",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "a18b244053084e13b4641f71c85dc138"
+    },
+    {
+      "th": "พระเจ้า",
+      "zh": "佛；天神；上帝",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "b1e2884e0fa04830b17663b6a30e9dcf"
+    },
+    {
+      "th": "เจ้าของ",
+      "zh": "主人；所有者",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "3a678548206c40ae84aed4d022db061d"
+    },
+    {
+      "th": "เงิน",
+      "zh": "钱",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "627d5330f4c24d289dd56e9dec3b662c"
+    },
+    {
+      "th": "เคลื่อนไหว",
+      "zh": "移动；活动",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8fef7e15bbaf4585b13625ea601756ea"
+    },
+    {
+      "th": "ผู้",
+      "zh": "人（构词成分）",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "a33079424f944a148a5d550786cef700"
+    },
+    {
+      "th": "ผู้ชาย",
+      "zh": "男人",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "f11708d5f70c4dc0a482b0115fc58389"
+    },
+    {
+      "th": "พี่ชาย",
+      "zh": "哥哥",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6256b81ca5804bbcae857e9991a6bf15"
+    },
+    {
+      "th": "น้องชาย",
+      "zh": "弟弟",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b2a43f958cc040239a55482e189cd70d"
+    },
+    {
+      "th": "ผู้หญิง",
+      "zh": "女人",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7b5ed93bf190432588d794f394053d3c"
+    },
+    {
+      "th": "พี่สาว",
+      "zh": "姐姐",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "43f17c087b794b81813e431396ff8703"
+    },
+    {
+      "th": "น้องสาว",
+      "zh": "妹妹",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "4a838f1f50ee4ebaadc8cc79c569d54c"
+    },
+    {
+      "th": "ศูนย์",
+      "zh": "零",
+      "category": "number",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "79fd19ee417945cc9bbf4adf5b0964fa"
+    },
+    {
+      "th": "ไป / มา",
+      "zh": "去 / 来",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "611446587acf41a8a1a96d0758bce042"
+    },
+    {
+      "th": "มี",
+      "zh": "有",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "954a85eaef724ebda45a0a0f2ce706b6"
+    },
+    {
+      "th": "ชา",
+      "zh": "茶；麻木",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "ef2c72e8c8eb4b74977eba7bd97e9b20"
+    },
+    {
+      "th": "ถุงชา",
+      "zh": "茶包",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "06f8d88f954a464a89a3a731c19ee750"
+    },
+    {
+      "th": "บ้าน",
+      "zh": "房子；家",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "3a47ae07936a45a6a6e5ea3a59340537"
+    },
+    {
+      "th": "1 หลัง",
+      "zh": "一栋（房屋量词）",
+      "category": "classifier",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "f244332f2bc84e8c95036a73c838fe0e"
+    },
+    {
+      "th": "动词+ได้",
+      "zh": "动词+会/能/成功做到",
+      "category": "pattern",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "fa24be4063c445e4b3f4f63b7e029d05"
+    },
+    {
+      "th": "ซื้อ",
+      "zh": "买",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "353dd140e5c04f7dbd44c1431d6d9159"
+    },
+    {
+      "th": "ถาม",
+      "zh": "问",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "4ade2a43fe304cf58bf80b83c7aaad14"
+    },
+    {
+      "th": "ตอบ",
+      "zh": "回答",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7b774cc0e7a54684991acbb0fbef28d3"
+    },
+    {
+      "th": "สวย",
+      "zh": "漂亮",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8604e4fdbee643edbd110d29cf9eae98"
+    },
+    {
+      "th": "น่าเกลียด",
+      "zh": "丑；难看",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "f55bad7b8bd04f3fa11394f623c4b464"
+    },
+    {
+      "th": "หมา",
+      "zh": "狗",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5f97eb2b20d4434f9e930a208720f9cb"
+    },
+    {
+      "th": "1 ตัว",
+      "zh": "一只（动物量词）",
+      "category": "classifier",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "e393002b6cc5414380b72aef852adb30"
+    },
+    {
+      "th": "คำ",
+      "zh": "词；字",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b2ba5b458a0c48dd820133810e040138"
+    },
+    {
+      "th": "1 คำ",
+      "zh": "一个词",
+      "category": "classifier",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "9e5a83469461498c94c6a9052e1ac8f5"
+    },
+    {
+      "th": "อ่าน",
+      "zh": "读",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e819b893026d47f89d1e451ba41dd8ae"
+    },
+    {
+      "th": "เขียน",
+      "zh": "写",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "588f0ddc2d2d46328b1ba23bdffc24d6"
+    },
+    {
+      "th": "ประโยค",
+      "zh": "句子",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6cbd2f6ad8644932beea0015888fc1e5"
+    },
+    {
+      "th": "แต่ง",
+      "zh": "编；造",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "383b059e1a724a32b7b42b00b7704ac0"
+    },
+    {
+      "th": "1 ประโยค",
+      "zh": "一个句子",
+      "category": "classifier",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "0b7d512ca5844e6991b965bf5e3579f9"
+    },
+    {
+      "th": "ทำ",
+      "zh": "做",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "0025f97dc3974e568143fcc5797f8827"
+    },
+    {
+      "th": "ให้",
+      "zh": "给；使",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b724507b59bf483ab0a723cf5ea18350"
+    },
+    {
+      "th": "ไม่พร้อม",
+      "zh": "没准备好",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "868c9925687a4ab38eb18abe949949f8"
+    },
+    {
+      "th": "...นี้",
+      "zh": "这个（近指）",
+      "category": "pattern",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7cb053354e264cb4b143d0b1dc13af1c"
+    },
+    {
+      "th": "...นั้น",
+      "zh": "那个（远指）",
+      "category": "pattern",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "cfd79be065a04a318babd80f811a2352"
+    },
+    {
+      "th": "ไปได้",
+      "zh": "可以去",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "dc81463169144b6990cd97828586d066"
+    },
+    {
+      "th": "ยืน",
+      "zh": "站",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7bd21e6efff2407296e8ada4c88a7626"
+    },
+    {
+      "th": "เดิน",
+      "zh": "走",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "142ba53227f44cd3a3a827f6b99a9514"
+    },
+    {
+      "th": "นั่ง",
+      "zh": "坐",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9362c44c75ad498194eaaa98d9ebc9a2"
+    },
+    {
+      "th": "นอน",
+      "zh": "躺；睡",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "bc054f942c7b4629bad49dc5ec7c5cba"
+    },
+    {
+      "th": "กิน",
+      "zh": "吃",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ee18e808988c45a595c968ae7d03a437"
+    },
+    {
+      "th": "ดื่ม",
+      "zh": "喝",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8bfadbe4352d4dd6b882a5faf6fd1106"
+    },
+    {
+      "th": "พูด",
+      "zh": "说",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d4c87d3e797941678dc093aa08ac30ae"
+    },
+    {
+      "th": "คิด",
+      "zh": "想",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "a86d31a1cbe64342b033d212697d7c9f"
+    },
+    {
+      "th": "ดี",
+      "zh": "好；善",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9221d4e9bd164b3ea56ba210454d1f16"
+    },
+    {
+      "th": "ความดี",
+      "zh": "善；善行",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "0318ffaa2cd24e70b34b32d82524b6c4"
+    },
+    {
+      "th": "ชั่ว",
+      "zh": "坏；恶",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d063f20c2fac49fdb70c57225841c1a6"
+    },
+    {
+      "th": "ความชั่ว",
+      "zh": "恶；坏事",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "774b783a00cd40fbbcf33f649b655d94"
+    },
+    {
+      "th": "สุข",
+      "zh": "快乐；幸福",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "917ffeea32064abbbdb9aaa7f9600124"
+    },
+    {
+      "th": "ความสุข",
+      "zh": "幸福",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "2a458341d6a746ae9a310340db91faaf"
+    },
+    {
+      "th": "ทุกข์",
+      "zh": "痛苦",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9f849b92e01347fa8654e6d3cfbc4f13"
+    },
+    {
+      "th": "ความทุกข์",
+      "zh": "痛苦",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "a609a4e1bdda4368ba655d0f3cf5c39c"
+    },
+    {
+      "th": "ขันธ์",
+      "zh": "蕴；组成部分",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "3de8687980034bb5a2533d3168c5545b"
+    },
+    {
+      "th": "รูป",
+      "zh": "色；物质形态",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ddfe5e3f5bb94b2691c209396bc2ae52"
+    },
+    {
+      "th": "รูปขันธ์",
+      "zh": "色蕴",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9ba55d58ecc243b3bb5bdca15e01ad92"
+    },
+    {
+      "th": "เวทนา",
+      "zh": "受；感受",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b138aae15ce04de59acadb491efc8655"
+    },
+    {
+      "th": "สัญญา",
+      "zh": "想；识别记忆",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "40570a70c2334fb4b208c73b51cb18b9"
+    },
+    {
+      "th": "สังขาร",
+      "zh": "行；造作",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "36be169f31ed41c39060e3d979691bcb"
+    },
+    {
+      "th": "วิญญาณ",
+      "zh": "识；意识",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b703ce429c0b4681a8a252380c910bf8"
+    },
+    {
+      "th": "นาม",
+      "zh": "名；精神法",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5d8d4b305f13490994dfb84cb9389e1a"
+    },
+    {
+      "th": "ถูก(ต้อง)",
+      "zh": "正确",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "15427e40b12042e79ced018deb9053f7"
+    },
+    {
+      "th": "ความถูกต้อง",
+      "zh": "正确性",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "92dccf1a7dd54589b46e6868fd42eb7b"
+    },
+    {
+      "th": "ผิด",
+      "zh": "错误",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6decaf968d004bbdbc4929f0df416b1f"
+    },
+    {
+      "th": "ความผิด",
+      "zh": "错误；过失",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "fae427a5c471499ea8cd32d9054c0022"
+    },
+    {
+      "th": "เจริญ",
+      "zh": "增长；发展",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "55debfcd64d24dabaf492fa0c39fcf4d"
+    },
+    {
+      "th": "ความเจริญ",
+      "zh": "发展；增上",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9cbc0a8cb8f34cf49e272854b8986c2d"
+    },
+    {
+      "th": "เสื่อม",
+      "zh": "衰退",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e7175b66d39045b8828ecf4aa7729c19"
+    },
+    {
+      "th": "ความเสื่อม",
+      "zh": "衰退",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "1c136915901d4e3ea908b661ba03e96d"
+    },
+    {
+      "th": "ขยัน",
+      "zh": "勤奋",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "185beacc985f4996bc05643f67c9d6b8"
+    },
+    {
+      "th": "ความขยัน",
+      "zh": "勤奋",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "648e88fc159d49d1baa8241d80ed6f0c"
+    },
+    {
+      "th": "ขี้เกียจ",
+      "zh": "懒惰",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "f0fafb1b64d542b9914e2caae155e237"
+    },
+    {
+      "th": "ความขี้เกียจ",
+      "zh": "懒惰",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "871a6f0a91a34c6386ea373f1154c936"
+    },
+    {
+      "th": "ความเกียจคร้าน",
+      "zh": "怠惰",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "551ee8f50b4e412da7b7421bc21fdd41"
+    },
+    {
+      "th": "ขี้เกียจ+ทำ",
+      "zh": "懒得做……",
+      "category": "pattern",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "c0fbd4d2c5bb4c7a9ed7b342944294ad"
+    },
+    {
+      "th": "สมบูรณ์",
+      "zh": "完整；圆满",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6e9ffccff58d4663acb806aec6bc6bcf"
+    },
+    {
+      "th": "ความสมบูรณ์",
+      "zh": "完整性",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "41a9e1cebbc049adab77bbc453628f36"
+    },
+    {
+      "th": "ความสมบูรณ์แบบ",
+      "zh": "完美",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5bc45692117b41c6ac53e1d5b1229fd3"
+    },
+    {
+      "th": "บริบูรณ์",
+      "zh": "充足；完备",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ee664324cf7c4ca1a060d97ae7db2ef2"
+    },
+    {
+      "th": "ความบริบูรณ์",
+      "zh": "充足；圆满",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8639f43ebda644a2a12f5414629fd508"
+    },
+    {
+      "th": "พร่อง",
+      "zh": "有缺；不足",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ad62391c3b9a44089cd072b72b2f307e"
+    },
+    {
+      "th": "ความบกพร่อง",
+      "zh": "缺陷；不足",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "987bbda386e848b09e53e4adb1526ea5"
+    },
+    {
+      "th": "จงใจ",
+      "zh": "故意",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "b1577acbf751433a8cf70750dabc198c"
+    },
+    {
+      "th": "เจตนา",
+      "zh": "意图；动机",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7211a20cda07480cbf4c51f61080bc6e"
+    },
+    {
+      "th": "อัตโนมัติ",
+      "zh": "自动",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9be6254d98c048bc81a4ccc11c4100e6"
+    },
+    {
+      "th": "พอง",
+      "zh": "膨胀",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "652807cec9d44a219b4d0a90f0c3959a"
+    },
+    {
+      "th": "ยุบ",
+      "zh": "收缩；塌陷",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "fa3c8e9ef2e444ef8aa2cdc8fdf9394e"
+    },
+    {
+      "th": "ลอย",
+      "zh": "漂浮",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "110fb26c67cb479c824b353163f9bf03"
+    },
+    {
+      "th": "เหม่อลอย",
+      "zh": "发呆；神游",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "c0ecd8361d1b4fc99d2312f36d6a98f2"
+    },
+    {
+      "th": "จม",
+      "zh": "沉没",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "12bfc5f1a1e04839ab34274cd3bcd929"
+    },
+    {
+      "th": "จมน้ำ",
+      "zh": "溺水；沉入水中",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7efe7d2852c84e35b5888db9febe2a87"
+    },
+    {
+      "th": "แช่",
+      "zh": "浸泡",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d3c7fb4c5d314d888cea9700a38c3713"
+    },
+    {
+      "th": "แช่ชา",
+      "zh": "麻木；迟钝",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8733d65e74304857ba1936479e8e0531"
+    },
+    {
+      "th": "แช่ตัว",
+      "zh": "泡澡",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "02fb5f1fdeac4feab65d4dd619fb6630"
+    },
+    {
+      "th": "จมแช่",
+      "zh": "浸没",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "994c120d79d34fb4bdbf41c497cc6df0"
+    },
+    {
+      "th": "ไหล",
+      "zh": "流动",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e60e0180cf2c457e9fcf0f2d5159611c"
+    },
+    {
+      "th": "ปรุง",
+      "zh": "调制；造作",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "6df305826b3f42e89586cb7056346ce9"
+    },
+    {
+      "th": "ปรุงแต่ง",
+      "zh": "造作；修饰",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "fa3113f5ed6a4cdb8743c909dcdaf20e"
+    },
+    {
+      "th": "ปรับปรุง",
+      "zh": "改进",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "89c3e2b7eea142b1a9744d26252ca78b"
+    },
+    {
+      "th": "เปลี่ยน",
+      "zh": "改变",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9a94c30dc5ca44d5aff309dd12f24a61"
+    },
+    {
+      "th": "เปลี่ยนแปลง",
+      "zh": "变化",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "983a88ed7baf40d68f41bc7813b04241"
+    },
+    {
+      "th": "เที่ยง",
+      "zh": "恒常",
+      "category": "adj",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "3a1756ad58de4c8196b6089b1b8ce76e"
+    },
+    {
+      "th": "อนัตตา",
+      "zh": "无我",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "12d91ca5f2e847df8f49737a792b92cf"
+    },
+    {
+      "th": "สร้าง",
+      "zh": "创造；建立",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "67aa211adad74caa90b2983abae027dd"
+    },
+    {
+      "th": "เพ่ง",
+      "zh": "专注地看；观照",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ce59d57d06cb44cf92c6d5d1b4a0a73b"
+    },
+    {
+      "th": "เพ่งจ้อง",
+      "zh": "凝视",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "9ef57fdff021486dbc36d421dc588b5e"
+    },
+    {
+      "th": "ธาตุ",
+      "zh": "元素；界",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "2956acb03e8043e389f782d37ea11dd1"
+    },
+    {
+      "th": "ธาตุดิน",
+      "zh": "地界",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "835b55c5a7cc4b6c81f57d4d5601191c"
+    },
+    {
+      "th": "ธาตุน้ำ",
+      "zh": "水界",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "520a123e911f457f8a1757cf97e88d00"
+    },
+    {
+      "th": "ธาตุลม",
+      "zh": "风界",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5a87a71360d14fd28b878996e6f44a90"
+    },
+    {
+      "th": "ธาตุไฟ",
+      "zh": "火界",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d3b96fb928394404a9ba4c5e905a5a36"
+    },
+    {
+      "th": "ระลึก",
+      "zh": "忆念；记起",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d13b77ce6d5c45dbac4463fd86d94d9d"
+    },
+    {
+      "th": "เครื่องระลึกรู้",
+      "zh": "觉知的工具",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "51a0919a68bd4ab4a247ec1e31e02d14"
+    },
+    {
+      "th": "สภาวะ",
+      "zh": "状态；现象",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "f987ecdcae214d1dbff5ab41a271b9d0"
+    },
+    {
+      "th": "รัก / ชอบ",
+      "zh": "爱 / 喜欢",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "634fbd1559534686964e91a5504ef72b"
+    },
+    {
+      "th": "รักใคร่",
+      "zh": "喜爱",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d7e745d9904246e0967b782234ac99dd"
+    },
+    {
+      "th": "เกลียด",
+      "zh": "恨；讨厌",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "a4d41d45e0944ed6b8cec6f2b7a9998b"
+    },
+    {
+      "th": "เกลียดชัง",
+      "zh": "憎恨",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "8dcc93670c614c3eb2c148811ca3d486"
+    },
+    {
+      "th": "โลภะ",
+      "zh": "贪",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e514c9c9d87742bfb109ffd2338ba78c"
+    },
+    {
+      "th": "โทสะ",
+      "zh": "瞋；愤怒",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e1f4cfe8d1594973b0ec9ce279f86ed7"
+    },
+    {
+      "th": "โกรธเคือง",
+      "zh": "恼怒",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "a679d66705244dc38acde60d55520f37"
+    },
+    {
+      "th": "โมหะ",
+      "zh": "痴；无明",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ba290908e24341a9a5bc06e6b73c271c"
+    },
+    {
+      "th": "ตั้งมั่น",
+      "zh": "确立；稳定",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "1c6cdf7fa0e741deb6be5d67a3ecf8f5"
+    },
+    {
+      "th": "สติ",
+      "zh": "正念；觉知",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5337bae0ab914bacae8d08382a80fafc"
+    },
+    {
+      "th": "สัมมาสติ",
+      "zh": "正念（八正道）",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d0ab371707314c24b5d626cc8eff2964"
+    },
+    {
+      "th": "สมาธิ",
+      "zh": "定；专注",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "d3eaca92568048ae9826991c1d6f53f6"
+    },
+    {
+      "th": "สัมมาสมาธิ",
+      "zh": "正定",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "1e500d89d1ae4a11bb2a16e9a4e1cb24"
+    },
+    {
+      "th": "ฌาน",
+      "zh": "禅那",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "7d6ce2530f8347cea299242f88df0896"
+    },
+    {
+      "th": "ญาน",
+      "zh": "智；智慧",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "c365b7f5b2bf42f89d3199c2a1c3dfae"
+    },
+    {
+      "th": "ปัญญาญาณ",
+      "zh": "智慧之智",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "30c185716ed5472382e1fa4490e8bf8f"
+    },
+    {
+      "th": "กรรมฐาน",
+      "zh": "业处；禅修对象",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "4c939dc12bc143bea3c082bf0eda0be4"
+    },
+    {
+      "th": "วิปัสสนากรรมฐาน",
+      "zh": "内观业处",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "f0094d5d49ca4003a41cdbc2f06fca9f"
+    },
+    {
+      "th": "สมถะกรรมฐาน",
+      "zh": "止禅业处",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "fa96a741f5db4c66a43c6ebcf9237e6e"
+    },
+    {
+      "th": "ไตรลักษณ์",
+      "zh": "三相（无常、苦、无我）",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "e3f2c93015f148f787609a25baf054dd"
+    },
+    {
+      "th": "ไตรสรณคมน์",
+      "zh": "三皈依",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "56dc86e0acbc432682a79c5a7c6b20d9"
+    },
+    {
+      "th": "พระพุทธ",
+      "zh": "佛陀",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "92d60ffe9cb94e4dae37996c3fbc708e"
+    },
+    {
+      "th": "พระธรรม",
+      "zh": "佛法",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "1a17138a811644169ead9564076417e8"
+    },
+    {
+      "th": "พระสงฆ์",
+      "zh": "僧团",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "317e27d86f28403bbdaf931b04c2649c"
+    },
+    {
+      "th": "กุศล",
+      "zh": "善；善法",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "623a286fb6684b528b1e8bf08c92aeeb"
+    },
+    {
+      "th": "อกุศล",
+      "zh": "不善；不善法",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5ae3137809634cbd8b1d5cd0def1e990"
+    },
+    {
+      "th": "ไหม?",
+      "zh": "吗？",
+      "category": "particle",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "b48d348665024b658fda3c6ed46f6b31"
+    },
+    {
+      "th": "รึเปล่า?",
+      "zh": "是不是？；……吗？",
+      "category": "particle",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "1a5326b02d9e4b15a01ffbda91fca4d1"
+    },
+    {
+      "th": "หรอ?",
+      "zh": "吗？（口语）",
+      "category": "particle",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "62b1aa1195214883a35b9654e1391e1e"
+    },
+    {
+      "th": "เป็น",
+      "zh": "是；成为",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "048d5a5f1e9d4a499524b832617eebc8"
+    },
+    {
+      "th": "หรือ",
+      "zh": "或者",
+      "category": "conj",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "70eaff54f2c941208a1fdeb849761db2"
+    },
+    {
+      "th": "ของ",
+      "zh": "的；属于",
+      "category": "prep",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "ad0b4b9d47e8456e90cd7e8d097b9166"
+    },
+    {
+      "th": "ใช่",
+      "zh": "是；对",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "8a7a1262fcd7445e9e99926ca5aaa270"
+    },
+    {
+      "th": "ไม่",
+      "zh": "不",
+      "category": "adv",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "5903c3eb32b64e8e964b9050f92fa75d"
+    },
+    {
+      "th": "ฉัน",
+      "zh": "我",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "6fd26a6154b24a6db1f3084539574bde"
+    },
+    {
+      "th": "เรา",
+      "zh": "我们；我",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "bbe03ca57bb3412488d8e5742d9481c4"
+    },
+    {
+      "th": "ผม",
+      "zh": "我（男性）",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "9966f800526549199a8cc7f5b5c5e457"
+    },
+    {
+      "th": "คุณ",
+      "zh": "你；您",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "85ab42eed48e47e69c63433e4d706b16"
+    },
+    {
+      "th": "นี่ / นั่น",
+      "zh": "这 / 那",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "72d68d8cf6b44406a6d3a6e0b6b70f50"
+    },
+    {
+      "th": "พี่",
+      "zh": "哥哥/姐姐；年长者",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "034ae0f062cb4115a29f5e6252d78cc0"
+    },
+    {
+      "th": "น้อง",
+      "zh": "弟弟/妹妹；年幼者",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "1f368ba9ee1543bf8eb27ef8e8be24eb"
+    },
+    {
+      "th": "เพื่อน",
+      "zh": "朋友",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "443a283d65b644a1b6f56354c44f8d29"
+    },
+    {
+      "th": "ที่นี่",
+      "zh": "这里",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "1f55713fed954291a1aa3028c86d331b"
+    },
+    {
+      "th": "ที่นั่น",
+      "zh": "那里",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "fc2f8d8190d74c1088e1a494feb5db80"
+    },
+    {
+      "th": "มัน",
+      "zh": "它",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "bc920ae1894a4c37a4523a582b75deb2"
+    },
+    {
+      "th": "ใครๆ",
+      "zh": "大家；谁都",
+      "category": "pron",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "word",
+      "id": "f929dfd48ec34e44bc03d303a0e62473"
+    },
+    {
+      "th": "ไป / มา",
+      "zh": "??????",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ef8f941bfd0a4b968f07fef4499f45d6"
+    },
+    {
+      "th": "ไป / มา",
+      "zh": "去 / 来",
+      "category": "verb",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "5d47555fa8a049de9c50d93578c23f86"
+    },
+    {
+      "th": "บ้าน",
+      "zh": "??????",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "ac21b7b518d74bd69a2c322b5e5d44f7"
+    },
+    {
+      "th": "บ้าน",
+      "zh": "房子",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "3f0d81db2c8c4e02b3278aa4ddd7d077"
+    },
+    {
+      "type": "word",
+      "th": "รถ",
+      "zh": "车",
+      "category": "名词",
+      "lesson": 2,
+      "id": "0c55e41610ae40479140ec8784595a30"
+    },
+    {
+      "type": "word",
+      "th": "การ",
+      "zh": "名词化(动作)",
+      "category": "名词",
+      "lesson": 2,
+      "id": "df2c53192a68402fad64b50de934231a"
+    },
+    {
+      "type": "word",
+      "th": "ความ",
+      "zh": "名词化(状态)",
+      "category": "名词",
+      "lesson": 2,
+      "id": "c9998d92ef594db0bacc4111dd44b9c8"
+    },
+    {
+      "type": "word",
+      "th": "อย่าง",
+      "zh": "样子/方式",
+      "category": "名词",
+      "lesson": 2,
+      "id": "422f26a769554bde940fe80bfcc5f853"
+    },
+    {
+      "type": "word",
+      "th": "เรื่อง",
+      "zh": "事情",
+      "category": "名词",
+      "lesson": 2,
+      "id": "29eee613b8794d1fb20a29bd3ab353eb"
+    },
+    {
+      "type": "word",
+      "th": "อะไร",
+      "zh": "什么",
+      "category": "疑问",
+      "lesson": 2,
+      "id": "94d78a387c1245cdba9433fc41d98472"
+    },
+    {
+      "type": "word",
+      "th": "อยู่",
+      "zh": "在/正在",
+      "category": "动词",
+      "lesson": 2,
+      "id": "71cbb129aeef486a9cd79d57718e3c84"
+    },
+    {
+      "type": "word",
+      "th": "กำลัง",
+      "zh": "正在/力量",
+      "category": "动词",
+      "lesson": 2,
+      "id": "b7aa09d1368c435f8c7260ad23666dfa"
+    },
+    {
+      "type": "word",
+      "th": "งาน",
+      "zh": "工作",
+      "category": "名词",
+      "lesson": 2,
+      "id": "6785aa7db4aa43649dbef880ee660fdd"
+    },
+    {
+      "type": "word",
+      "th": "ไป",
+      "zh": "去",
+      "category": "动词",
+      "lesson": 2,
+      "id": "fe8c3b8aecd34ac3b0cb53eb678b3995"
+    },
+    {
+      "type": "word",
+      "th": "มา",
+      "zh": "来",
+      "category": "动词",
+      "lesson": 2,
+      "id": "7e294cf254c94146abc0e8a84406f229"
+    },
+    {
+      "type": "word",
+      "th": "กลับ",
+      "zh": "回",
+      "category": "动词",
+      "lesson": 2,
+      "id": "9c0d68d005aa44558b729aa4056ef66d"
+    },
+    {
+      "type": "word",
+      "th": "หนี",
+      "zh": "逃跑",
+      "category": "动词",
+      "lesson": 2,
+      "id": "c66256824e154677a69d155f1b345a70"
+    },
+    {
+      "type": "word",
+      "th": "ลืม",
+      "zh": "忘记",
+      "category": "动词",
+      "lesson": 2,
+      "id": "8245dee32faa4026a92028e498cd0812"
+    },
+    {
+      "type": "word",
+      "th": "ก็ได้",
+      "zh": "也可以",
+      "category": "副词",
+      "lesson": 2,
+      "id": "5b40ae0db56d46829a677f146bfc0167"
+    },
+    {
+      "type": "word",
+      "th": "เรียก",
+      "zh": "叫/称为",
+      "category": "动词",
+      "lesson": 2,
+      "id": "13f9424b191c4e4a8a32565e3abde6ab"
+    },
+    {
+      "type": "word",
+      "th": "กวาด",
+      "zh": "扫",
+      "category": "动词",
+      "lesson": 2,
+      "id": "3019714965914630bd51840c83f3ae3d"
+    },
+    {
+      "type": "word",
+      "th": "ถู",
+      "zh": "拖/擦",
+      "category": "动词",
+      "lesson": 2,
+      "id": "2f01dbe163bc4c508b72406fbcc236e0"
+    },
+    {
+      "type": "word",
+      "th": "รดน้ำ",
+      "zh": "浇水",
+      "category": "动词",
+      "lesson": 2,
+      "id": "b1f4e2536fcf4491ba5c5e4aab5618c8"
+    },
+    {
+      "type": "word",
+      "th": "ต้นไม้",
+      "zh": "树/植物",
+      "category": "名词",
+      "lesson": 2,
+      "id": "cca59f8206674dc3995b663939ccb475"
+    },
+    {
+      "type": "word",
+      "th": "ล้าง",
+      "zh": "洗",
+      "category": "动词",
+      "lesson": 2,
+      "id": "2fe38ce2b0f74486a0f0b3296a971b95"
+    },
+    {
+      "type": "word",
+      "th": "อาบน้ำ",
+      "zh": "洗澡",
+      "category": "动词",
+      "lesson": 2,
+      "id": "85857378da294cb99808b60211fe6eba"
+    },
+    {
+      "type": "word",
+      "th": "กรรมฐาน",
+      "zh": "禅修",
+      "category": "名词",
+      "lesson": 2,
+      "id": "2a18527fcf6f4039a22424dd63633eb0"
+    },
+    {
+      "type": "word",
+      "th": "ปฏิบัติ",
+      "zh": "实践",
+      "category": "动词",
+      "lesson": 2,
+      "id": "28455b082d324ff7a0c309045996f307"
+    },
+    {
+      "type": "word",
+      "th": "รู้",
+      "zh": "知道",
+      "category": "动词",
+      "lesson": 2,
+      "id": "3469cee29556487cb39770c5f982fa54"
+    },
+    {
+      "type": "word",
+      "th": "จิต",
+      "zh": "心",
+      "category": "名词",
+      "lesson": 2,
+      "id": "8918002456a74983abf128306f50cc9b"
+    },
+    {
+      "type": "word",
+      "th": "ร่างกาย",
+      "zh": "身体",
+      "category": "名词",
+      "lesson": 2,
+      "id": "26e9f78a3eb443438849e814ae92b340"
+    },
+    {
+      "type": "word",
+      "th": "สงบ",
+      "zh": "平静",
+      "category": "形容词",
+      "lesson": 2,
+      "id": "1a6e7a95d4074206b4e7ee76b7ea650f"
+    },
+    {
+      "type": "word",
+      "th": "ฟุ้งซ่าน",
+      "zh": "散乱",
+      "category": "形容词",
+      "lesson": 2,
+      "id": "3f424790075b4c27978872c287279d4b"
+    },
+    {
+      "type": "word",
+      "th": "สติ",
+      "zh": "正念",
+      "category": "名词",
+      "lesson": 2,
+      "id": "58415f0c732f4eb398161427ff20558c"
+    },
+    {
+      "type": "word",
+      "th": "หลง",
+      "zh": "迷失",
+      "category": "动词",
+      "lesson": 2,
+      "id": "3f1a577f2a414a63998a0d751fd607f7"
+    },
+    {
+      "type": "word",
+      "th": "เคลื่อนไหว",
+      "zh": "移动",
+      "category": "动词",
+      "lesson": 2,
+      "id": "9d58ea94dde84c75a12f792dd3867595"
+    },
+    {
+      "type": "word",
+      "th": "ในรูปแบบ",
+      "zh": "按形式",
+      "category": "短语",
+      "lesson": 2,
+      "id": "5bd2e115e80e45e6892f27f26763896c"
+    },
+    {
+      "type": "word",
+      "th": "ใน",
+      "zh": "在…里",
+      "category": "介词",
+      "lesson": 2,
+      "id": "12907a0b502046d2aff0e3cd710fa9bc"
+    },
+    {
+      "type": "word",
+      "th": "ซัก",
+      "zh": "某/一些",
+      "category": "副词",
+      "lesson": 2,
+      "id": "6e54417e03c84c308692b3dd77c5694a"
+    },
+    {
+      "type": "word",
+      "th": "อาจจะ",
+      "zh": "可能",
+      "category": "副词",
+      "lesson": 2,
+      "id": "d8757be7887347e9b1a843aad0e1bc49"
+    },
+    {
+      "type": "word",
+      "th": "ก็",
+      "zh": "也/就",
+      "category": "副词",
+      "lesson": 2,
+      "id": "f2fd77b624944b7a941645caaa9ce7f7"
+    },
+    {
+      "type": "word",
+      "th": "แต่",
+      "zh": "但是",
+      "category": "连词",
+      "lesson": 2,
+      "id": "6de7000956b44a5c8e5e94976b6bb7dc"
+    },
+    {
+      "type": "word",
+      "th": "แค่",
+      "zh": "只是",
+      "category": "副词",
+      "lesson": 2,
+      "id": "f903265df4e74c9ab5e397d1a23cb2d4"
+    },
+    {
+      "type": "word",
+      "th": "อยู่(后缀)",
+      "zh": "正在",
+      "category": "时态",
+      "lesson": 2,
+      "id": "e2bf7193eb50417a83c80bfebcf7a6b9"
+    },
+    {
+      "type": "word",
+      "th": "กำลัง(前缀)",
+      "zh": "正在",
+      "category": "时态",
+      "lesson": 2,
+      "id": "6b8f49f8465b4d49bd774772f7a9ef5d"
+    },
+    {
+      "type": "word",
+      "th": "แล้ว",
+      "zh": "已经",
+      "category": "时态",
+      "lesson": 2,
+      "id": "04363f158001432cb87ddd2cd808815f"
+    },
+    {
+      "type": "word",
+      "th": "ทัน",
+      "zh": "及时",
+      "category": "动词",
+      "lesson": 2,
+      "id": "7e45662f46e148f680041a1d6581e4a5"
+    },
+    {
+      "type": "word",
+      "th": "ไป(后缀)",
+      "zh": "去/继续",
+      "category": "动词",
+      "lesson": 2,
+      "id": "08ce912f10e640879754d90363c729e1"
+    },
+    {
+      "type": "word",
+      "th": "อื่น",
+      "zh": "其他",
+      "category": "形容词",
+      "lesson": 2,
+      "id": "4282bf46103e40c6914d5ccf0e2cfc05"
+    },
+    {
+      "type": "word",
+      "th": "เหมือนกัน",
+      "zh": "一样",
+      "category": "形容词",
+      "lesson": 2,
+      "id": "8ea84a1db51e4dc0bd15aa6f2597b2ee"
+    },
+    {
+      "type": "word",
+      "th": "ที่",
+      "zh": "的/在",
+      "category": "连词",
+      "lesson": 2,
+      "id": "46b63e3e6fc94b1f9b8d53a16add0129"
+    },
+    {
+      "th": "ที่",
+      "zh": "地点地方；的",
+      "category": "prep",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "10cc124ea5c14f6e95da7495cf6c7d99"
+    },
+    {
+      "th": "เณร",
+      "zh": "小沙弥",
+      "category": "noun",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "word",
+      "id": "1e22a28114c0414d8d562cbf841a50d8"
+    }
+  ],
+  "phrases": [
+    {
+      "th": "สวัสดี",
+      "zh": "你好",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d632f9a7c4b04b1dbce4212f8fcc331b"
+    },
+    {
+      "th": "ขอบคุณ",
+      "zh": "谢谢",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "52eba774a0014a8382ff3d884a7ad584"
+    },
+    {
+      "th": "ขอโทษ",
+      "zh": "对不起",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "b50c440d72f044cdad0e0cac37a03cd6"
+    },
+    {
+      "th": "อยากได้",
+      "zh": "想要",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "76fe270a1c924f6abfe744660c80f3e3"
+    },
+    {
+      "th": "เป็นอะไร?",
+      "zh": "怎么了？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "e9a5fc0c3dce4f72be7d6d13d5f65a85"
+    },
+    {
+      "th": "เป็นหวัด",
+      "zh": "感冒",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c2cec24a3711453e95ad82bdff9606c9"
+    },
+    {
+      "th": "เจ็บขา",
+      "zh": "腿疼",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "1_ 第一课补充词汇.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "dd18d97c47d54e36b667fc04f9c3b8af"
+    },
+    {
+      "th": "ขาชา",
+      "zh": "腿麻",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "500e6edb47294e90b5397310fde31f93"
+    },
+    {
+      "th": "คำนี้",
+      "zh": "这个词",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "03c74cef29304021b5ab3646f37a4ba7"
+    },
+    {
+      "th": "อ่านว่าอะไร?",
+      "zh": "读作什么？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "18be7291393d421ab19c07a240bdba5c"
+    },
+    {
+      "th": "แต่งประโยค",
+      "zh": "造句",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "第一课补充词汇2.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "86d09c20696b49399de68e20d92bb4d4"
+    },
+    {
+      "th": "มาอีกครั้งนึง",
+      "zh": "再来一次",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "96a2f496787341f0a0ac3eb966ab5d09"
+    },
+    {
+      "th": "พร้อมแล้วรึยังคะ?/ครับ?",
+      "zh": "准备好了吗？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "82ef35cdc2e4406f9703261af0c74faf"
+    },
+    {
+      "th": "พร้อมแล้วค่ะ/ครับ",
+      "zh": "准备好了",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "2998a5b5a8c34c2a9a917ed5eba7bd1b"
+    },
+    {
+      "th": "ยังไม่พร้อมค่ะ/ครับ",
+      "zh": "还没准备好",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "76d945e4736847c58706658d1b3dceaa"
+    },
+    {
+      "th": "สวัสดีค่ะ/ครับ",
+      "zh": "你好",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "23ea1aeaab56498e95e6a11dc4d9b014"
+    },
+    {
+      "th": "แล้วเจอกันนะคะ/นะครับ",
+      "zh": "回头见",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "02cb77ff27994683b20100579e7f34ee"
+    },
+    {
+      "th": "อันนี้",
+      "zh": "这个",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0f4a3c16914448468c7baf56a4683e19"
+    },
+    {
+      "th": "อันนั้น",
+      "zh": "那个",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "e0eeb47bf9814ccaace1ad98bc8a127d"
+    },
+    {
+      "th": "อันไหน",
+      "zh": "哪一个",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "84c7206bc4b548f8ab271a58b993e0c3"
+    },
+    {
+      "th": "เป็นอะไรไหมคะ?/ครับ?",
+      "zh": "没事吧？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c04691d1a629455a96c68c65db018b39"
+    },
+    {
+      "th": "ไม่เป็นอะไรค่ะ/ครับ",
+      "zh": "没事",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "82b2309af82142d2afcafc161520c4c6"
+    },
+    {
+      "th": "ไม่เป็นไรค่ะ/ครับ",
+      "zh": "不要紧；没关系",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "17bb9558ed574011aa9c67326e9506a8"
+    },
+    {
+      "th": "คุณ A คะ/ครับ",
+      "zh": "A先生/女士",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d97cd52be0ee453f9d4c3601387c98cb"
+    },
+    {
+      "th": "ขอโทษค่ะ/ครับ",
+      "zh": "对不起",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "5e943404913c48dcb87e2a50c447154e"
+    },
+    {
+      "th": "ไม่ทราบค่ะ/ครับ",
+      "zh": "不知道",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "bc002b0ae4634621beb37a443d336a35"
+    },
+    {
+      "th": "ขอบคุณค่ะ/ครับ",
+      "zh": "谢谢",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "46925731c5834a90aef1602774f1428a"
+    },
+    {
+      "th": "แปลว่าอะไร",
+      "zh": "是什么意思？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "610f4f1fe5634abbac607ff21e4b26ef"
+    },
+    {
+      "th": "มาครบรึยัง?",
+      "zh": "来齐了吗？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "28f3e602e2ff427284b57f205051e20d"
+    },
+    {
+      "th": "ต้องทำให้ได้",
+      "zh": "一定要做到",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d884ae53cc6c4c4485b90c4e113c852c"
+    },
+    {
+      "th": "รอแป๊บนึงนะคะ เดี๋ยวมา",
+      "zh": "稍等一下，我马上来",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d70cde6f004e428cba04747bc2649c87"
+    },
+    {
+      "th": "เอาไว้ก่อน",
+      "zh": "先放着；先这样",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "4d708f74c1bd4fa7ae5c09e0138573b6"
+    },
+    {
+      "th": "ดีใจที่คุณมา",
+      "zh": "很高兴你来了",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "6ed92f906940413b90a29b36536b67dd"
+    },
+    {
+      "th": "กินด้วยกัน",
+      "zh": "一起吃",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "e88f5c6d67e4423d92b67488de644a1b"
+    },
+    {
+      "th": "ไปกินข้าวกันเถอะ",
+      "zh": "我们去吃饭吧",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "f3502c094d1c4129918ff5703469ec50"
+    },
+    {
+      "th": "ไปด้วย!",
+      "zh": "我也去！",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "2834f6db4b03401aac5ab577e7d42801"
+    },
+    {
+      "th": "ต่างคนต่างกิน",
+      "zh": "各吃各的",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "ffdde7867f214830833161286168f8c4"
+    },
+    {
+      "th": "มีตั้งหลายคน!",
+      "zh": "有很多人呢！",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c91ea143bfbf4529b7f106d435eeca65"
+    },
+    {
+      "th": "มีแค่คนเดียวเอง",
+      "zh": "只有一个人而已",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "899286a4460f4e05996126815bc3bd55"
+    },
+    {
+      "th": "ลืมไปแล้ว นึกไม่ออก",
+      "zh": "忘了，想不起来",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "cd69c7a457f742249c236b37ada180f7"
+    },
+    {
+      "th": "ไปเองไม่เป็น",
+      "zh": "自己不会去",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "20e96163b882433f90307d951fb45437"
+    },
+    {
+      "th": "ไปได้ไหม?",
+      "zh": "能去吗？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "39329d1619564b50bed51af992b96225"
+    },
+    {
+      "th": "ไปไม่ได้",
+      "zh": "不能去",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "a905df57d1064ecc9391166eed5529d6"
+    },
+    {
+      "th": "ปวดหัว",
+      "zh": "头痛",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "bbd569ccca544eb5b0924793ee1b8557"
+    },
+    {
+      "th": "เคยไปมาก่อน",
+      "zh": "以前去过",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "b717ed44064449c59bd39b385bef0c74"
+    },
+    {
+      "th": "ขอตัว(กลับ)ก่อน",
+      "zh": "先告辞（先回去了）",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "b642356de9d24a05aa43fa19260fd67c"
+    },
+    {
+      "th": "วันนี้วันที่เท่าไหร่?",
+      "zh": "今天几号？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "671142bf6be346439900165b57113073"
+    },
+    {
+      "th": "นี่คือรถคันที่เท่าไหร่?",
+      "zh": "这是第几辆车？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "a82de1507a0e4d4893a39738f998263f"
+    },
+    {
+      "th": "ยังมีต้นไม้แบบนี้อีกไหม?",
+      "zh": "还有这种树吗？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "b22f9fe087fa4edeb618c9aedb27d52b"
+    },
+    {
+      "th": "พ่อแม่ รัก ลูก เท่ากัน",
+      "zh": "父母平等地爱孩子",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "e29c2ef8efc646f6a772c20447003862"
+    },
+    {
+      "th": "เดินขึ้น",
+      "zh": "往上走",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c8fe319239fe435dafeb2c379cb3891e"
+    },
+    {
+      "th": "เดินลง",
+      "zh": "往下走",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "8662d8e54d1949c68dae02e72416e9bc"
+    },
+    {
+      "th": "เพิ่มการปฏิบัติขึ้น",
+      "zh": "增加练习/修行",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "49fb989a500642f68b8e4fea6b64986b"
+    },
+    {
+      "th": "ลดการปฏิบัติลง",
+      "zh": "减少练习/修行",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d4630eb2681d49feadfd8cd0380355e7"
+    },
+    {
+      "th": "ทำบ้าง ไม่ทำบ้าง",
+      "zh": "有时做有时不做",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "1f3d4c43216642509ac899cc69f390ed"
+    },
+    {
+      "th": "ละกิเลส",
+      "zh": "断除烦恼",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "f328e89c3162491ebc331c8f5f0880e5"
+    },
+    {
+      "th": "เดินจงกรมวันละ 2 ครั้ง ครั้งละ 4 รอบ",
+      "zh": "每天经行两次，每次四圈",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "dab63be3bbb74aa89f0a20ff1d5d6951"
+    },
+    {
+      "th": "ไม่ยอมทำการบ้าน",
+      "zh": "不肯做作业",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "1ea4f10064cc425e91837172a04e4afa"
+    },
+    {
+      "th": "ศีลบกพร่อง",
+      "zh": "戒有缺失",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d2219cace4ba4c479016d25802c372e3"
+    },
+    {
+      "th": "ศีลสมบูรณ์",
+      "zh": "戒圆满",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "OftenUseWords.pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "fec9f455df8e4550b12ee45a23ef0c56"
+    },
+    {
+      "th": "คนใจดี",
+      "zh": "好心人",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "75976350d48b4b73a6e18cb87a504e36"
+    },
+    {
+      "th": "ดีใจ / เสียใจ",
+      "zh": "高兴 / 难过",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "96b0697d313545d6a59cd84744070409"
+    },
+    {
+      "th": "ทำชั่ว",
+      "zh": "作恶",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "7ab37485eff24c11ae122c48f17d0c6c"
+    },
+    {
+      "th": "มีความสุข",
+      "zh": "感到幸福",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "a862ccec1ebb484caa8ef545a780823c"
+    },
+    {
+      "th": "มีความทุกข์",
+      "zh": "感到痛苦",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "690ba7de69fb429ba08936075a4d10fd"
+    },
+    {
+      "th": "การรู้ทาง ตา หู กาย ใจ",
+      "zh": "眼耳身意等的觉知",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "3d56128c7ace42ab87fce78f92bce69a"
+    },
+    {
+      "th": "แยกรูป",
+      "zh": "分色",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "ea84b8205da541db87896d5aa9a0d7c7"
+    },
+    {
+      "th": "แยกนาม",
+      "zh": "分名",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0c18ddbacebb442d90f5bda4f71fdf25"
+    },
+    {
+      "th": "ทำถูก",
+      "zh": "做对",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "dbd66fcb539e4770829ab78d2707d357"
+    },
+    {
+      "th": "ทำผิด",
+      "zh": "做错",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "7851e622ee0c486ba72ae5ad9c616a34"
+    },
+    {
+      "th": "เจริญปัญญา",
+      "zh": "增长智慧",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "649bbbaaf2454f6080f6cf4577c6e335"
+    },
+    {
+      "th": "เจริญวิปัสสนา",
+      "zh": "修习内观",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "1b02f3e85cf146efb35f06a31be2e82b"
+    },
+    {
+      "th": "สมาธิเสื่อมถอย",
+      "zh": "定力退失",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "1f24e3ec139c4efeb4b1cd3840e1e7d0"
+    },
+    {
+      "th": "ขยันหมั่นเพียร",
+      "zh": "勤勉精进",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "771cae8d04884d62b0b9c23682a4684a"
+    },
+    {
+      "th": "ขยันทํา",
+      "zh": "勤于做",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0366a17d92be4df69cdf3b61793f9ec8"
+    },
+    {
+      "th": "ศีลบริบูรณ์",
+      "zh": "戒行圆满",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "91c14cfb7aea451aa5d72f5833fffb25"
+    },
+    {
+      "th": "จงใจทำ",
+      "zh": "故意做",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "67f063ff27614f47aad9164d5f91cbc4"
+    },
+    {
+      "th": "ไม่เจตนา",
+      "zh": "非故意",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "169b5f4d677f40aea49c5ecb5a6f46cf"
+    },
+    {
+      "th": "โดยอัตโนมัติ",
+      "zh": "自动地",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d9fac6b9b7ca42e68283668abaef5be3"
+    },
+    {
+      "th": "แบบอัตโนมัติ",
+      "zh": "自动式的",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "3ee46aeea861425bbb1a5642d7ff1a1c"
+    },
+    {
+      "th": "ท้องพอง",
+      "zh": "肚子鼓起",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "115d602492974be58cd7c5569dd1b2b2"
+    },
+    {
+      "th": "ท้องยุบ",
+      "zh": "肚子回缩",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "9aa9326cfb2f4a2aaef00044fd952cd4"
+    },
+    {
+      "th": "ใจลอย",
+      "zh": "走神",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "16a3d68170894fc586c94ea1c1806212"
+    },
+    {
+      "th": "จิตจมลง",
+      "zh": "心沉下去",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "70bdaef59c0747bc84df9540ba144b6d"
+    },
+    {
+      "th": "แช่น้ำ",
+      "zh": "泡水",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d2df2e9e06df476c9ed848609f540605"
+    },
+    {
+      "th": "การเคลื่อนไหวของร่างกาย",
+      "zh": "身体的动作",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "ccf05e53d7f6477baf9a7ee5e2ad4692"
+    },
+    {
+      "th": "ความเคลื่อนไหวของจิต",
+      "zh": "心的活动",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "49c19c8e3b4e4ea19139ec3770fa0e3f"
+    },
+    {
+      "th": "จิตไหล",
+      "zh": "心流散",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "4c1cca2be9bc4becba6aa65b4905d5ad"
+    },
+    {
+      "th": "น้ำตาไหล",
+      "zh": "流泪",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "1ac071cda3de48808d86b43a84c43f82"
+    },
+    {
+      "th": "ปรุงอาหาร",
+      "zh": "做饭；烹饪",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "df78cc18e0d94d2aa43f9b3a817b852c"
+    },
+    {
+      "th": "เปลี่ยนรูป",
+      "zh": "变形",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "384290c10b104d1da722728b8b51fb33"
+    },
+    {
+      "th": "ปรับปรุง เปลี่ยนแปลง",
+      "zh": "改进改变",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "bbec7ed9156144e2a9eb3d74b41c643e"
+    },
+    {
+      "th": "ขันธ์5 ไม่เที่ยง",
+      "zh": "五蕴无常",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "928f318930e14bc58be857ab90efa044"
+    },
+    {
+      "th": "สร้างขึ้นมา",
+      "zh": "创造出来",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "737f48b4681e4000a9be07de12564829"
+    },
+    {
+      "th": "ทำขึ้นมา",
+      "zh": "做出来",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "4549cf2ef3664f94888f2c844e7f2e25"
+    },
+    {
+      "th": "จิตสร้างภพขึ้นมา",
+      "zh": "心造作诸有",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "d03c1e539bef4cb18f7febf10053b711"
+    },
+    {
+      "th": "เพ่งเข้าไป",
+      "zh": "向内专注观察",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "3a1cc394b4e148df841fbae1b90123a6"
+    },
+    {
+      "th": "เพ่งลงไป",
+      "zh": "向下专注观察",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c153c79ed0b9443ab4dfc9e39b2e4047"
+    },
+    {
+      "th": "แยกธาตุแยกขันธ์",
+      "zh": "分析四大与五蕴",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "f1410c3fe46b4ea782cbadfa92d66d1b"
+    },
+    {
+      "th": "ระลึก นึกถึง",
+      "zh": "想起；怀念",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0aa94120c8d04991ac22b8cf710fe4b6"
+    },
+    {
+      "th": "รู้สภาวะ",
+      "zh": "知道状态",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "e7d30e80bba14a45bd4c8734fdd3151a"
+    },
+    {
+      "th": "สร้างสภาวะขึ้นมา",
+      "zh": "造作出某种状态",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "903410ea00654b499b8f33545cb56e15"
+    },
+    {
+      "th": "จิตรักสุข",
+      "zh": "心爱乐受",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "afe8286081074a9083b25aa0db5bebb1"
+    },
+    {
+      "th": "จิตเกลียดทุกข์",
+      "zh": "心厌苦受",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c8723106f91a4dc5a84efa8e207bc45b"
+    },
+    {
+      "th": "จิตมีโลภะ",
+      "zh": "心有贪",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "3549ab16677e446c891d3f8b1b09e4ff"
+    },
+    {
+      "th": "จิตโลภ",
+      "zh": "贪心",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "84a24b92792242619496351555a9ddec"
+    },
+    {
+      "th": "จิตมีโทสะ",
+      "zh": "心有瞋",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0492828c604b4b45988996f943c2f139"
+    },
+    {
+      "th": "จิตโกรธ",
+      "zh": "生气",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "fdbcdaadbdde43ef8bca4e559e192b6e"
+    },
+    {
+      "th": "จิตมีโมหะ",
+      "zh": "心有痴",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0831e3beac664b4fa58c588547a37f38"
+    },
+    {
+      "th": "จิตหลง",
+      "zh": "心迷惑",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "99dfb09776134c57b756338b9210f3c9"
+    },
+    {
+      "th": "จิตตั้งมั่น",
+      "zh": "心稳定",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "0ef395b78ff64ce49a82c71ac304e8cd"
+    },
+    {
+      "th": "มีสติสัมปชัญญะ",
+      "zh": "具足正念正知",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "78e56d0509294d34b0552352ef249db8"
+    },
+    {
+      "th": "จิตทรงสมาธิ",
+      "zh": "心住于定",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "13bdca39d88f406bbd55c983e089340a"
+    },
+    {
+      "th": "ทรงฌาน",
+      "zh": "住于禅那",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "c7233884fd7c4b70a598bf301ce1446b"
+    },
+    {
+      "th": "จิตทรงฌาน",
+      "zh": "心住禅定",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "76f7b5e6eb994115bebd232c003c040d"
+    },
+    {
+      "th": "ญาณ คือ ปัญญา",
+      "zh": "智就是智慧",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "bc3ee095437a4e6e955ece7ff5e76ebc"
+    },
+    {
+      "th": "ทุกอย่างอยู่ใต้กฎของไตรลักษณ์",
+      "zh": "一切都在三相法则之下",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "a80683dbf91a4c3ba055c6550ea947a7"
+    },
+    {
+      "th": "จิตเป็นกุศล",
+      "zh": "心是善的",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "71c5053df54e4e2081925849efe99666"
+    },
+    {
+      "th": "ความคิดอกุศล",
+      "zh": "不善的念头",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "คำศัพท์ธรรมะ1-52(1).pdf",
+      "confidence": "high",
+      "type": "phrase",
+      "id": "569bce36d7ea46de9171b0f6a913f669"
+    },
+    {
+      "th": "ใคร?",
+      "zh": "谁？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "phrase",
+      "id": "8b750b33f59841f7859d9e8390ed326b"
+    },
+    {
+      "th": "อะไร?",
+      "zh": "什么？",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "phrase",
+      "id": "e10d696ab045411d933aa8f8c48506de"
+    },
+    {
+      "th": "ไร?",
+      "zh": "什么？（口语）",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "phrase",
+      "id": "66373940e9f84d96bc158c7335a8248e"
+    },
+    {
+      "th": "แจกเอกสารใหม่",
+      "zh": "发新资料",
+      "category": "phrase",
+      "lesson": 1,
+      "source_pdf": "สรุปบทที่1_课程总结表.pdf",
+      "confidence": "medium",
+      "type": "phrase",
+      "id": "3452bfb8a0ac46248e687dad2e58133f"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Word Bank</title>
+    <link rel="stylesheet" href="/styles.css?v=11" />
+  </head>
+  <body data-page="word-bank">
+    <div class="page-shell">
+      <header class="topbar">
+        <a class="brand-mark" href="/">Thai Typing Game</a>
+        <div class="topbar-actions">
+          <nav class="nav-links">
+            <a href="/" data-i18n="nav.home">Home</a>
+            <a href="/word-bank" data-i18n="nav.wordBank">Word Bank</a>
+            <a href="/practice" data-i18n="nav.practice">Practice</a>
+          </nav>
+          <label class="language-picker">
+            <span data-i18n="common.language">Language</span>
+            <select id="languageSelect">
+              <option value="en">English</option>
+              <option value="zh">Chinese</option>
+            </select>
+          </label>
+        </div>
+      </header>
+
+      <section class="page-intro card">
+        <p class="eyebrow" data-i18n="wordBank.eyebrow">Word bank workspace</p>
+        <h1 data-i18n="wordBank.title">Browse and inspect the current Thai study library.</h1>
+        <p class="hero-text" data-i18n="wordBank.subtitle">
+          This page is only for word bank viewing and filtering, so practice stays focused elsewhere.
+        </p>
+      </section>
+
+      <main class="content-grid">
+        <section class="filters card">
+          <div class="section-head">
+            <h2 data-i18n="wordBank.filtersTitle">Filters</h2>
+            <p data-i18n="wordBank.filtersSubtitle">Search by type, lesson, or keyword.</p>
+          </div>
+
+          <form id="filtersForm" class="filters-form">
+            <label>
+              <span data-i18n="wordBank.type">Type</span>
+              <select name="type" id="typeSelect">
+                <option value="all" data-i18n="wordBank.allTypes">All</option>
+                <option value="word" data-i18n="wordBank.wordsOnly">Words</option>
+                <option value="phrase" data-i18n="wordBank.phrasesOnly">Phrases</option>
+              </select>
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.lesson">Lesson</span>
+              <select name="lesson" id="lessonSelect"></select>
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.keyword">Keyword</span>
+              <input type="search" name="keyword" id="keywordInput" data-i18n-placeholder="wordBank.keywordPlaceholder" />
+            </label>
+
+            <button type="submit" class="primary-btn" data-i18n="wordBank.refresh">Refresh List</button>
+            <a class="button-link ghost-btn" href="/word-bank/import" data-i18n="wordBank.openImport">Import Word Bank</a>
+          </form>
+        </section>
+
+        <section class="card">
+          <div class="section-head">
+            <h2 data-i18n="wordBank.editorTitle">Edit Library</h2>
+            <p data-i18n="wordBank.editorSubtitle">Create, update, or remove entries here.</p>
+          </div>
+
+          <form id="editorForm" class="editor-form">
+            <input type="hidden" id="editorItemId" />
+
+            <label>
+              <span data-i18n="wordBank.editorType">Entry type</span>
+              <select id="editorType">
+                <option value="word" data-i18n="wordBank.wordsOnly">Words</option>
+                <option value="phrase" data-i18n="wordBank.phrasesOnly">Phrases</option>
+              </select>
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.editorThai">Thai</span>
+              <input type="text" id="editorTh" />
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.editorChinese">Chinese</span>
+              <input type="text" id="editorZh" />
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.editorLesson">Lesson</span>
+              <input type="number" id="editorLesson" min="1" />
+            </label>
+
+            <label>
+              <span data-i18n="wordBank.editorCategory">Category</span>
+              <input type="text" id="editorCategory" />
+            </label>
+
+            <div class="editor-actions">
+              <button type="submit" class="primary-btn" id="saveItemBtn" data-i18n="wordBank.save">Save Entry</button>
+              <button type="button" class="ghost-btn" id="resetEditorBtn" data-i18n="wordBank.reset">Clear Form</button>
+            </div>
+          </form>
+
+          <div id="editorStatus" class="feedback-card neutral" data-i18n="wordBank.editorHint">
+            Choose a row to edit, or create a new entry.
+          </div>
+        </section>
+      </main>
+
+      <section class="list-panel card">
+        <div class="section-head inline-head">
+          <div>
+            <h2 data-i18n="wordBank.entriesTitle">Entries</h2>
+            <p id="listMeta"></p>
+          </div>
+          <div class="pager">
+            <button type="button" id="prevBtn" data-i18n="common.previous">Previous</button>
+            <button type="button" id="nextBtn" data-i18n="common.next">Next</button>
+          </div>
+        </div>
+
+        <div id="itemsList" class="table-wrap"></div>
+      </section>
+    </div>
+
+    <script src="/common.js?v=11"></script>
+    <script src="/word-bank.js?v=11"></script>
+  </body>
+</html>
