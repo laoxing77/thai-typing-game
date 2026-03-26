@@ -132,6 +132,8 @@
     "practice.chooseLesson": "Choose lesson when needed",
     "practice.yourAnswer": "Your answer",
     "practice.submitAnswer": "Submit Answer",
+    "practice.nextQuestion": "Next Question",
+    "practice.viewResult": "View Result",
     "practice.endRound": "End Round",
     "practice.ready": "Set up a round and start practicing.",
     "practice.emptyStage": "Choose your practice settings, then start a round.",
@@ -288,6 +290,8 @@
     "practice.chooseLesson": "\u6309\u8bfe\u7a0b\u7ec3\u4e60\u65f6\u8bf7\u9009\u62e9\u8bfe\u6b21",
     "practice.yourAnswer": "\u4f60\u7684\u7b54\u6848",
     "practice.submitAnswer": "\u63d0\u4ea4\u7b54\u6848",
+    "practice.nextQuestion": "\u4e0b\u4e00\u9898",
+    "practice.viewResult": "\u67e5\u770b\u7ed3\u679c",
     "practice.endRound": "\u7ed3\u675f\u672c\u8f6e",
     "practice.ready": "\u5148\u8bbe\u7f6e\u4e00\u8f6e\u7ec3\u4e60\uff0c\u7136\u540e\u5f00\u59cb\u7b54\u9898\u3002",
     "practice.emptyStage": "\u5148\u9009\u62e9\u7ec3\u4e60\u53c2\u6570\uff0c\u518d\u5f00\u59cb\u4e00\u8f6e\u7ec3\u4e60\u3002",
@@ -425,6 +429,9 @@ window.appCommon = {
   formatModeLabel: formatModeLabel,
   formatDateTime: formatDateTime,
 };
+
+
+
 
 
 

@@ -1,4 +1,4 @@
-var common = window.appCommon;
+﻿var common = window.appCommon;
 var i18n = common.i18n;
 var initLanguagePicker = common.initLanguagePicker;
 var fetchJson = common.fetchJson;
@@ -18,6 +18,10 @@ var state = {
     wrongIds: [],
     score: 0,
     finished: false,
+    awaitingNext: false,
+    lastFeedbackKey: "practice.answerHint",
+    lastFeedbackValues: null,
+    lastFeedbackTone: "neutral",
   },
 };
 
@@ -29,6 +33,35 @@ function setPracticeStatus(message, tone) {
   var card = document.querySelector("#feedbackCard");
   card.className = "feedback-card " + (tone || "neutral");
   card.textContent = message;
+}
+
+function setPracticeStatusByKey(key, tone, values) {
+  state.practice.lastFeedbackKey = key;
+  state.practice.lastFeedbackTone = tone || "neutral";
+  state.practice.lastFeedbackValues = values || null;
+  setPracticeStatus(i18n.t(key, values), tone);
+}
+
+function updateSubmitButton() {
+  var button = document.querySelector("#submitAnswerBtn");
+  if (state.practice.finished) {
+    button.textContent = i18n.t("practice.submitAnswer");
+    button.disabled = true;
+    return;
+  }
+
+  if (state.practice.awaitingNext) {
+    var isLastQuestion = state.practice.currentIndex >= state.practice.questions.length - 1;
+    button.textContent = isLastQuestion ? i18n.t("practice.viewResult") : i18n.t("practice.nextQuestion");
+  } else {
+    button.textContent = i18n.t("practice.submitAnswer");
+  }
+  button.disabled = false;
+}
+
+function syncAnswerInputState() {
+  var input = document.querySelector("#answerInput");
+  input.readOnly = !!state.practice.awaitingNext || !!state.practice.finished;
 }
 
 function renderPracticeMeta() {
@@ -65,6 +98,8 @@ function renderQuestion() {
   document.querySelector("#progressBar").style.width = progress + "%";
   renderPracticeMeta();
   updateStatusText();
+  updateSubmitButton();
+  syncAnswerInputState();
 
   if (!question) {
     return;
@@ -79,9 +114,14 @@ function renderQuestion() {
     state.practice.direction === "zh_to_th" ? i18n.t("practice.questionLabelZhToTh") : i18n.t("practice.questionLabelThToZh");
   document.querySelector("#questionPrompt").textContent =
     state.practice.direction === "zh_to_th" ? question.zh : question.th;
-  document.querySelector("#answerInput").value = "";
-  document.querySelector("#answerInput").focus();
-  setPracticeStatus(i18n.t("practice.answerHint"));
+
+  if (!state.practice.awaitingNext) {
+    document.querySelector("#answerInput").value = "";
+    document.querySelector("#answerInput").focus();
+    setPracticeStatusByKey("practice.answerHint", "neutral");
+  } else {
+    setPracticeStatusByKey(state.practice.lastFeedbackKey, state.practice.lastFeedbackTone, state.practice.lastFeedbackValues);
+  }
 }
 
 function renderIdleState() {
@@ -115,7 +155,7 @@ async function startPractice(event) {
     var countValue = Number.parseInt(document.querySelector("#practiceCountInput").value, 10);
 
     if (mode === "lesson" && !lessonValue) {
-      setPracticeStatus(i18n.t("practice.lessonRequired"), "warning");
+      setPracticeStatusByKey("practice.lessonRequired", "warning");
       return;
     }
 
@@ -143,6 +183,10 @@ async function startPractice(event) {
       wrongIds: [],
       score: 0,
       finished: false,
+      awaitingNext: false,
+      lastFeedbackKey: "practice.answerHint",
+      lastFeedbackValues: null,
+      lastFeedbackTone: "neutral",
     };
     renderQuestion();
   } catch (error) {
@@ -217,6 +261,10 @@ async function finishPractice() {
         wrongIds: [],
         score: 0,
         finished: false,
+        awaitingNext: false,
+        lastFeedbackKey: "practice.answerHint",
+        lastFeedbackValues: null,
+        lastFeedbackTone: "neutral",
       };
       renderIdleState();
     });
@@ -228,10 +276,30 @@ async function finishPractice() {
   }
 }
 
+function advanceAfterFeedback() {
+  state.practice.currentIndex += 1;
+  state.practice.awaitingNext = false;
+  state.practice.lastFeedbackKey = "practice.answerHint";
+  state.practice.lastFeedbackValues = null;
+  state.practice.lastFeedbackTone = "neutral";
+
+  if (state.practice.currentIndex >= state.practice.questions.length) {
+    finishPractice();
+    return;
+  }
+
+  renderQuestion();
+}
+
 async function submitAnswer(event) {
   event.preventDefault();
   var question = currentQuestion();
   if (!question || state.practice.finished) {
+    return;
+  }
+
+  if (state.practice.awaitingNext) {
+    advanceAfterFeedback();
     return;
   }
 
@@ -246,21 +314,16 @@ async function submitAnswer(event) {
     if (result.correct) {
       state.practice.score += 1;
       state.practice.correctIds.push(question.id);
-      setPracticeStatus(i18n.t("practice.correct", { answer: result.correctAnswer }), "success");
+      setPracticeStatusByKey("practice.correct", "success", { answer: result.correctAnswer });
     } else {
       state.practice.wrongIds.push(question.id);
-      setPracticeStatus(i18n.t("practice.incorrect", { answer: result.correctAnswer }), "error");
+      setPracticeStatusByKey("practice.incorrect", "error", { answer: result.correctAnswer });
     }
 
+    state.practice.awaitingNext = true;
     renderPracticeMeta();
-    window.setTimeout(async function () {
-      state.practice.currentIndex += 1;
-      if (state.practice.currentIndex >= state.practice.questions.length) {
-        await finishPractice();
-      } else {
-        renderQuestion();
-      }
-    }, 650);
+    updateSubmitButton();
+    syncAnswerInputState();
   } catch (error) {
     setPracticeStatus(error.message, "error");
   }
