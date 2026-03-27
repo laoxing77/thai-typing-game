@@ -10,9 +10,9 @@ function renderDashboard(data) {
   var summaryCards = document.querySelector("#summaryCards");
   var cards = [
     { label: i18n.t("home.totalEntries"), value: data.summary.total },
+    { label: i18n.t("home.totalWords"), value: data.summary.words },
+    { label: i18n.t("home.totalPhrases"), value: data.summary.phrases },
     { label: i18n.t("home.wrongBook"), value: data.wrongBookCount },
-    { label: i18n.t("home.totalPageViews"), value: data.accessStats.totalPageViews },
-    { label: i18n.t("home.todayPageViews"), value: data.accessStats.todayPageViews },
   ];
 
   summaryCards.innerHTML = cards.map(function (card) {
@@ -42,30 +42,13 @@ function renderDashboard(data) {
     return '<article class="mini-stat"><span>' + item.label + "</span><strong>" + item.value + "</strong></article>";
   }).join("");
 
-  var accessStats = [
-    { label: i18n.t("home.todayUniqueVisitors"), value: data.accessStats.todayUniqueVisitors },
-    { label: i18n.t("home.totalPracticeStarts"), value: data.accessStats.totalPracticeStarts },
-    { label: i18n.t("home.totalPracticeFinishes"), value: data.accessStats.totalPracticeFinishes },
-  ];
-  document.querySelector("#accessStatsSummary").innerHTML = accessStats.map(function (item) {
-    return '<article class="mini-stat"><span>' + item.label + "</span><strong>" + item.value + "</strong></article>";
-  }).join("");
-
-  var trendList = document.querySelector("#trafficTrendList");
-  trendList.innerHTML = data.accessStats.recentDays.map(function (day) {
-    return (
-      '<article class="record-card traffic-card">' +
-        '<div class="record-topline">' +
-          '<strong>' + day.label + '</strong>' +
-          '<span class="item-meta">' + day.date + '</span>' +
-        '</div>' +
-        '<div class="record-grid">' +
-          '<div><span>' + i18n.t("home.pageViews") + '</span><strong>' + day.pageViews + '</strong></div>' +
-          '<div><span>' + i18n.t("home.practiceStarts") + '</span><strong>' + day.practiceStarts + '</strong></div>' +
-        '</div>' +
-      '</article>'
-    );
-  }).join("");
+  var footer = document.querySelector("#homeFooterStats");
+  footer.textContent = i18n.t("home.footerStats", {
+    today_views: data.accessStats.todayPageViews,
+    total_views: data.accessStats.totalPageViews,
+    today_practice: data.accessStats.todayPracticeStarts,
+    total_practice: data.accessStats.totalPracticeStarts,
+  });
 
   var recent = data.practiceHistory.recent;
   var recentList = document.querySelector("#recentPracticeList");

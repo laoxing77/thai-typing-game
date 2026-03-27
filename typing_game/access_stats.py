@@ -183,6 +183,7 @@ def get_access_stats_summary():
         "totalPageViews": total_page_views,
         "todayPageViews": today.get("pageViews", 0),
         "todayUniqueVisitors": len(today.get("visitors", [])),
+        "todayPracticeStarts": today.get("practiceStarts", 0),
         "totalPracticeStarts": total_practice_starts,
         "totalPracticeFinishes": total_practice_finishes,
         "recentDays": recent_days,
