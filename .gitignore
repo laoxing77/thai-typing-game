@@ -14,3 +14,5 @@ runtime_data*/
 
 .DS_Store
 Thumbs.db
+
+access_stats.json

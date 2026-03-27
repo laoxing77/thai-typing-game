@@ -7,6 +7,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import parse_qs, urlparse
 
+from .access_stats import get_access_stats_summary, record_event, record_page_visit
 from .practice_history import append_practice_record, get_practice_history_summary
 from .quiz import choose_random_questions, format_correct_answer, is_correct_answer
 from .storage import (
@@ -77,6 +78,7 @@ def build_dashboard_payload():
         "lessons": lessons,
         "wrongBookCount": len(wrong_records),
         "practiceHistory": history,
+        "accessStats": get_access_stats_summary(),
     }
 
 
@@ -453,6 +455,9 @@ class TypingGameWebHandler(BaseHTTPRequestHandler):
         if parsed.path == "/health":
             return self._send_json({"ok": True})
 
+        if parsed.path in ROUTE_TO_FILE:
+            record_page_visit(parsed.path, self.headers, self.client_address)
+
         return self._serve_static(parsed.path)
 
     def do_POST(self):
@@ -477,13 +482,19 @@ class TypingGameWebHandler(BaseHTTPRequestHandler):
             result = confirm_word_bank_import(payload)
             return self._send_json(result, status=HTTPStatus.OK if result.get("ok") else HTTPStatus.BAD_REQUEST)
         if parsed.path == "/api/practice/setup":
-            return self._send_json(build_practice_setup_payload(payload))
+            result = build_practice_setup_payload(payload)
+            if result.get("ok"):
+                record_event("practice_start")
+            return self._send_json(result)
         if parsed.path == "/api/practice/check":
             result = build_practice_check_payload(payload)
             status = HTTPStatus.OK if result.get("ok") else HTTPStatus.NOT_FOUND
             return self._send_json(result, status=status)
         if parsed.path == "/api/practice/finish":
-            return self._send_json(update_practice_results(payload))
+            result = update_practice_results(payload)
+            if result.get("ok"):
+                record_event("practice_finish")
+            return self._send_json(result)
 
         return self._send_json({"ok": False, "message": "Not found."}, status=HTTPStatus.NOT_FOUND)
 
@@ -545,3 +556,4 @@ def run_web_app(host="127.0.0.1", port=8000):
         print("\nWeb frontend stopped.")
     finally:
         server.server_close()
+
